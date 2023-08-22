@@ -1,2 +1,2 @@
-# TypeScript-curso-1
-Repositório do curso: "TypeScript parte 1: evoluindo seu JavaScript" da Alura Cursos Online.
+# TypeScript-curso
+Repositório dos cursos: "TypeScript parte 1: evoluindo seu JavaScript" e "TypeScript parte 2: avançando na linguagem", da Alura Cursos Online.
